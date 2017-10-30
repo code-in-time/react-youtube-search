@@ -1,0 +1,8 @@
+
+div.VideoSearchResults {
+    width: 200px;
+    height: 600px;
+    overflow-x: auto;
+    overflow-y: scroll;
+    margin: 0;
+}
